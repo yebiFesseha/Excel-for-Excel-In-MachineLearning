@@ -7,4 +7,4 @@ Random Forest Classifier: random forest model for Behavioral Risk Factor Surveil
 
 Support Vector Machine: run a svm.SVC with 4 kernels and svm.SVR with linear kernel and a bunch of thresholds.
 
-
+Gradient Descent: an attempt to understand Gradient Descent
