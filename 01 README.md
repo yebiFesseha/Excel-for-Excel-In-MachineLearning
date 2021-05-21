@@ -12,3 +12,5 @@ Gradient Descent: an attempt to understand Gradient Descent
 Categorical: Here I am showing how a categorical data can be transformed and encoded before running an ML algoithm. The data is ficitious with a number of categorical columns. Support Vector Machine with SVC, Linear Regression and Decision Tree Classifier have been used for prediction and their accuracy has been measured against the test data.
 
 K-Fold Cross Validation: I have run a number of models with k-fold CV and used pipeline.
+
+First NLP project using NLTK and Regex: I used a Twitter comment data I got from Kaggle. The goal here is to get familiar with the available NLP libraries. 
