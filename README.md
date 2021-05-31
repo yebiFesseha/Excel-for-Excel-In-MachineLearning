@@ -13,6 +13,6 @@ Categorical: Here I am showing how a categorical data can be transformed and enc
 
 K-Fold Cross Validation: I have run a number of models with k-fold CV and used pipeline.
 
-First NLP project using NLTK and Regex: I used a Twitter comment data I got from Kaggle. The goal here is to get familiar with the available NLP libraries. 
+First NLP project using NLTK and Regex: I used a Twitter comment data I got from Kaggle. The goal here is to get familiar with the available NLP libraries and create a Word Cloud.
 
 How to execute SQLite3 commands: SQL is a critical skill for a data analyst or scientist to have. In here i have demonstrated basic execution of sqlite commands using python/pandas. I have created a fictious database with 3 tables. Populated two of them with data. The third one I showed how to remove or drop it from the database. I have also read a table from the database using Pandas. 
