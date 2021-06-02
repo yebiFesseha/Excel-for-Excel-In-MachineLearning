@@ -15,4 +15,4 @@ K-Fold Cross Validation: I have run a number of models with k-fold CV and used p
 
 First NLP project using NLTK and Regex: I used a Twitter comment data I got from Kaggle. The goal here is to get familiar with the available NLP libraries and create a Word Cloud.
 
-How to execute SQLite3 commands: SQL is a critical skill for a data analyst or scientist must have. Here i have demonstrated basic execution of sqlite commands using python/pandas. I have created a fictious database with 3 tables. Populated two of them with data and removed or dropped the third one for demonstration purposes. I have also read a table from the database using Pandas. 
+How to execute SQLite3 commands: SQL is a critical skill for a data analyst or scientist to have. Here i have demonstrated basic execution of sqlite commands using python/pandas. I have created a fictious database with 3 tables. Populated two of them with data and removed or dropped the third one for demonstration purposes. Finally, I used pandas to read a table from a sqlite3 database and display on a dataframe.
