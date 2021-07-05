@@ -11,13 +11,15 @@
 
 06: Categorical: Here I am showing how a categorical data can be transformed and encoded before running an ML algoithm. The data is ficitious with a number of categorical columns. Support Vector Machine with SVC, Linear Regression and Decision Tree Classifier have been used for prediction and their accuracy has been measured against the test data.
 
-07: K-Fold Cross Validation: I have run a number of models with k-fold CV and used pipeline.
+07: Heart attack predictor
 
-08: First NLP project using NLTK and Regex: I used a Twitter comment data I got from Kaggle. The goal here is to get familiar with the available NLP libraries and create a Word Cloud.
+08: K-Fold Cross Validation: I have run a number of models with k-fold CV and used pipeline.
 
-09: How to execute SQLite3 commands: SQL is a critical skill for a data analyst or scientist to have. Here i have demonstrated basic execution of sqlite commands using python/pandas. I have created a fictious database with 3 tables. Populated two of them with data and removed or dropped the third one for demonstration purposes. Finally, I used pandas to read a table from a sqlite3 database and display it on a dataframe.
+09: First NLP project using NLTK and Regex: I used a Twitter comment data I got from Kaggle. The goal here is to get familiar with the available NLP libraries and create a Word Cloud.
 
-10: SQL based data analysis: some functions on google Colab don't work such as Rank, Dense Rank. So far I am not able to resolve the issue.
+10: How to execute SQLite3 commands: SQL is a critical skill for a data analyst or scientist to have. Here i have demonstrated basic execution of sqlite commands using python/pandas. I have created a fictious database with 3 tables. Populated two of them with data and removed or dropped the third one for demonstration purposes. Finally, I used pandas to read a table from a sqlite3 database and display it on a dataframe.
+
+11: SQL based data analysis: some functions on google Colab don't work such as Rank, Dense Rank. So far I am not able to resolve the issue.
 
 12 Unsupervised ML KMeans Clustering: I used the world Happiness index report from Kaggle as a toy data to practice clustering in Unsupervised machine learning algorithm, specifically KMeans algorithm. In addition to KMeans algorithm i have shown a number of ML techniques and processes, Labelled countries data, preprocessed the data,
 using elbow method found the optimum number of clusters, Worked out the optimum number of components using explained_variance_ratio, hence the number of optimum dimensions when applying PCA dimentional recuction technique and finally used plotly to visualise the results.
