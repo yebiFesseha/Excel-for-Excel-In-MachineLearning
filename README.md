@@ -21,7 +21,7 @@
 
 11: SQL based data analysis: some functions on google Colab don't work such as Rank, Dense Rank. So far I am not able to resolve the issue.
 
-12 Unsupervised ML KMeans Clustering: I used the world Happiness index report from Kaggle as a toy data to practice clustering in Unsupervised machine learning algorithm, specifically KMeans algorithm. In addition to KMeans algorithm i have shown a number of ML techniques and processes, Labelled countries data, preprocessed the data,
+12: Unsupervised ML KMeans Clustering: I used the world Happiness index report from Kaggle as a toy data to practice clustering in Unsupervised machine learning algorithm, specifically KMeans algorithm. In addition to KMeans algorithm i have shown a number of ML techniques and processes, Labelled countries data, preprocessed the data,
 using elbow method found the optimum number of clusters, Worked out the optimum number of components using explained_variance_ratio, hence the number of optimum dimensions when applying PCA dimentional recuction technique and finally used plotly to visualise the results.
 
-Pipeline, Column Transformers, CV, Logistic Regression: In this case I have modelled the probability of churn from an imaginary cellular company. The challenge is how to model both categorical and numerical data. I have used Logistic Regression modelling on scaled numerical and encoded categorical data using column transformers and pipelining. The result shows an improvement of about 3% churn prediction accuracy from about 76% to 79%.
+13: Pipeline, Column Transformers, CV, Logistic Regression: In this case I have modelled the probability of churn from an imaginary cellular company. The challenge is how to model both categorical and numerical data. I have used Logistic Regression modelling on scaled numerical and encoded categorical data using column transformers and pipelining. The result shows an improvement of about 3% churn prediction accuracy from about 76% to 79%.
