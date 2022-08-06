@@ -1,4 +1,4 @@
-# Excel-for-Excel-In-MachineLearning.
+# Excel-for-Excel-In-MachineLearning with principles of Bushido.
 01: LinReg: Basic linear regression ML, I have used list comprhension in a number of places to illustrate the beauty of python.
 
 02: Logistic Regression: Run a Logistic Regression on soccer matches data, using Column Transformers and Pipeline. Used OneHotEncoding and svm.SVR for modelling and got 63% accuracy
